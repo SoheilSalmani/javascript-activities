@@ -7,3 +7,4 @@
 5. Check that modules are evaluated only one vs. classic scripts.
 6. Test different types of module specifiers.
 7. Experiment dynamic `import()`.
+8. Experiment `import.meta`.
