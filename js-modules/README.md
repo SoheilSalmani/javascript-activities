@@ -8,3 +8,4 @@
 6. Test different types of module specifiers.
 7. Experiment dynamic `import()`.
 8. Experiment `import.meta`.
+9. Improve performance by using preload modules.
