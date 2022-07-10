@@ -5,7 +5,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>JS Modules</title>
+    <script src="classic.js"></script>
+    <script src="classic.js"></script>
     <script type="module" src="main.mjs"></script>
+    <script type="module" src="main.mjs"></script>
+    <script type="module">
+      import "./main.mjs";
+    </script>
     <script type="nomodule" defer src="fallback.js"></script>
   </head>
   <body></body>
