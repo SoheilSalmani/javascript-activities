@@ -1,5 +1,5 @@
 export const repeat = (string) => `${string} ${string}`;
 
-export function shout(string) {
+export default function (string) {
   return `${string.toUpperCase()}`;
 }
