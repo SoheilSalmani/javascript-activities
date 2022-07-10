@@ -4,3 +4,5 @@
 2. Transform one named export to a default export.
 3. Use a module in web page.
 4. Add fallback script for old browsers.
+5. Check that modules are evaluated only one vs. classic scripts.
+6. Test different types of module specifiers.
