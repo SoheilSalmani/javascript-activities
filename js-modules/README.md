@@ -9,3 +9,8 @@
 7. Experiment dynamic `import()`.
 8. Experiment `import.meta`.
 9. Improve performance by using preload modules.
+
+## Resources
+
+- [JavaScript modules](https://v8.dev/features/modules)
+- [Dynamic `import()`](https://v8.dev/features/dynamic-import)
